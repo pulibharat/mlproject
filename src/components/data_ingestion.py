@@ -1,5 +1,4 @@
 import os
-from pyexpat import model
 
 from src.exception import CustomException
 import sys
